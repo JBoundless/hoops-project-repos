@@ -1,4 +1,4 @@
-# sports-repos
+# nba-project-repos
 
 A collection of all the NBA-related repositories on my GitHub, with projects ranging from ReactJS to Jupyter Notebook. This has been organized from most recent to least.
 
