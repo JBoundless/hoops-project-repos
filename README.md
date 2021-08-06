@@ -3,7 +3,7 @@
 A collection of all the NBA-related repositories on my GitHub, with projects ranging from ReactJS to Jupyter Notebook. This has been organized from most recent to least.
 
 ## NBA Team Stats (ReactJS)
-https://github.com/JBoundless/nba-team-stats
+https://github.com/JBoundless/nba-team-stats {target="_blank"}
 
 ## NBA Stat Finder (ReactJS)
 https://github.com/JBoundless/nba-stat-finder
