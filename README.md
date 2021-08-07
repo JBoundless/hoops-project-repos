@@ -1,4 +1,4 @@
-# nba-project-repos
+# NBA-Project-Repos
 
 A collection of all the NBA-related repositories on my GitHub, with projects ranging from ReactJS to Jupyter Notebook. This has been organized from most recent to least.
 
@@ -12,7 +12,7 @@ https://github.com/JBoundless/nba-stat-finder
 
 ![NBA Stat Finder](https://user-images.githubusercontent.com/39219944/128584337-5f420fa1-c25b-4e49-a5fd-f041dcb059aa.png)
 
-## Dimes Chart
+## Dimes Chart (ReactJS)
 https://github.com/JBoundless/react-nba-dime-charts
 
 ![NBA Dimes Chart](https://user-images.githubusercontent.com/39219944/128584332-b3491fc1-f1e9-46d4-944b-8b4791c3ed43.png)
