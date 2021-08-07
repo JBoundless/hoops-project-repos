@@ -30,20 +30,34 @@ https://github.com/JBoundless/sports-scrape-jupyter
 ## Kobe Stats Scraping (Jupyter Notebook)
 https://github.com/JBoundless/kobe-stats-scraping
 
-## NBA Clutch Stats Chart (ReactJS)
+![Kobe Stats DV](https://user-images.githubusercontent.com/39219944/128584324-12e4d234-163a-4cc1-b53b-9eb1f0373ff9.png)
+
+## NBA Clutch Stats Chart (React Native)
 https://github.com/JBoundless/nba-clutch-stats-chart
+
+![Clutch Stats App](https://user-images.githubusercontent.com/39219944/128584320-08887c71-a014-4b71-86ab-a88ad1fe5955.jpg)
 
 ## Loyola Hoops Stats App (React Native)
 https://github.com/JBoundless/loyola-hoops-stats-app
 
+![Loyola Hoops App](https://user-images.githubusercontent.com/39219944/128584330-b7a3128d-3c3b-418f-8cba-63f3df491a6f.jpg)
+
 ## NBA Streaming Site UI, Non-Responsive (ReactJS)
 https://github.com/JBoundless/nba-netflix
+
+![NBA Livestream UI](https://user-images.githubusercontent.com/39219944/128584336-c5e1ab87-bef0-4050-97c8-12c2e28e4a90.png)
 
 ## NBA Encyclopedia (ReactJS)
 https://github.com/JBoundless/nba-encyclopedia
 
+![NBA Encyclopedia](https://user-images.githubusercontent.com/39219944/128584333-9f125b2a-4d89-4976-ba79-d6c68658341b.png)
+
 ## NBA Legends PPG (HTML)
 https://github.com/JBoundless/nba-legends-ppg
 
+![NBA Legends PPG](https://user-images.githubusercontent.com/39219944/128584335-47b4d6a2-db38-4e44-ade1-3a279b2ed00c.png)
+
 ## NBA Twitter
 https://github.com/JBoundless/NBA-Twitter
+
+![NBA Twitter](https://user-images.githubusercontent.com/39219944/128584339-a88e5d39-8cf1-4a6d-88bf-fa324cf44e40.png)
