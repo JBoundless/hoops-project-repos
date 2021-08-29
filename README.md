@@ -61,3 +61,6 @@ https://github.com/JBoundless/nba-legends-ppg
 https://github.com/JBoundless/NBA-Twitter
 
 ![NBA Twitter](https://user-images.githubusercontent.com/39219944/128584339-a88e5d39-8cf1-4a6d-88bf-fa324cf44e40.png)
+
+## 2020-21 Lakers Data Viz (with Pandas and MatPlotLib)
+https://github.com/JBoundless/2021-lakers-dv
