@@ -64,3 +64,5 @@ https://github.com/JBoundless/NBA-Twitter
 
 ## 2020-21 Lakers Data Viz (with Pandas and MatPlotLib)
 https://github.com/JBoundless/2021-lakers-dv
+
+![Screen Shot 2021-08-29 at 2 21 58 PM](https://user-images.githubusercontent.com/39219944/131266232-ee899fab-3149-4d03-93b5-cb8a09a3536b.png)
